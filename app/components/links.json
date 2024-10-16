@@ -1,0 +1,37 @@
+{
+    "links": [
+        {
+            "label": "AEON",
+            "href": "/AEON"
+        },
+        {
+            "label": "Showcase",
+            "href": "/Showcase"
+        },
+        {
+            "label": "Docs",
+            "href": "/Docs"
+        },
+        {
+            "label": "Blog",
+            "href": "/Blog"
+        },
+        {
+            "label": "Analytics",
+            "href": "/Analytics"
+        },
+        {
+            "label": "Commerce",
+            "href": "/Commerce"
+        },
+        {
+            "label": "Templates",
+            "href": "/Templates"
+        },
+        {
+            "label": "Enterprise",
+            "href": "/Enterprise"
+        }
+
+    ]
+}

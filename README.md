@@ -1,6 +1,6 @@
 # AEON Frontend Engineer Technical Assessment
 
-This is the code I created for the asseement using Typescript. Run the code by running the development server.
+This is the code I created for the assessment using Typescript. Run the code by running the development server.
  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
